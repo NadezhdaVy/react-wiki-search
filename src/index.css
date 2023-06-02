@@ -45,29 +45,3 @@ body {
   flex-flow: column nowrap;
   align-items: center;
 }
-
-.search-input {
-  width: 100%;
-  max-width: 500px;
-  padding: 0.5em;
-  border-radius: 10px;
-  margin-bottom: 2rem;
-  font-size: 1.25rem;
-}
-
-.search-item {
-  margin: 1rem;
-  max-width: 500px;
-}
-
-.item-row {
-  display: flex;
-  flex-flow: row nowrap;
-  gap: 1rem;
-}
-
-.item-column {
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: center;
-}

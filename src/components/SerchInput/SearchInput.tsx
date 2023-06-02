@@ -1,3 +1,5 @@
+import './SearchInput.css';
+
 type SearchProps = {
   searchValue: string;
   setSearchValue: (val: string) => void;

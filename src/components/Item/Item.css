@@ -1,0 +1,16 @@
+.search-item {
+  margin: 1rem;
+  max-width: 500px;
+}
+
+.item-row {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 1rem;
+}
+
+.item-column {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}

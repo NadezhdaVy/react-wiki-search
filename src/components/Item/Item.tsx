@@ -1,3 +1,5 @@
+import './Item.css';
+
 import { TResult } from '../../TStypes/types';
 type ItenProps = {
   result: TResult;
