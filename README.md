@@ -1,1 +1,2 @@
-# react-wiki-search
+# react-wiki-search 
+Swr + ts
